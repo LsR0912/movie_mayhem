@@ -1,1 +1,8 @@
+# Python bytecode
+*.pyc
+*.pyo
+
+# Directory containing bytecode files compiled on-demand
+.\__pycache__/
+
 /venv
